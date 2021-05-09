@@ -28,7 +28,7 @@ requirements = python3,kivy==2.0.0
 # (str) Supported orientation (one of landscape, sensorLandscape, portrait or all)
 orientation = all
 
-osx.python_version = 3
+osx.python_version = 3.9.5
 
 osx.kivy_version = 2.0.0
 
